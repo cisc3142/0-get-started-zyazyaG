@@ -10,6 +10,6 @@ This assignments walks you through the mechanics of cloning a repository, making
 
 2. Follow the instructions [here](https://github.com/cisc3130/docs/blob/master/submissions.md). When you are up to the __Modify__ section ("Edit the project files to fulfill the assignment requirements"), write a short program called helloworld.cpp (naming must be exactly the same) to print the phrase "Hello world" to the terminal. Continue with the rest of the submission instructions.
 
-2. Make sure your pull request includes your full name, @rivlev, and @andreas-weise
+2. Make sure your pull request includes your full name and @rivlev
 
 3. You will follow this workflow (accepting assignments, enabling travis, modifying and submitting) for all assignments in this class.
