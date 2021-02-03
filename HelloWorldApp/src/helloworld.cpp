@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : HelloWorldApp.cpp
+// Name        : helloworld.cpp
 // Author      : 
 // Version     :
 // Copyright   : Your copyright notice
